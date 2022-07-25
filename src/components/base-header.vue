@@ -7,8 +7,6 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: "baseHeader",
   components: {imagePalestine ,threeButtons   },
-
-
   setup() {
     return {  };
   },
@@ -18,8 +16,6 @@ export default defineComponent({
 <template>
 <three-buttons></three-buttons>
 <image-palestine></image-palestine>
- 
-
  </template>
 
 <style scoped>
