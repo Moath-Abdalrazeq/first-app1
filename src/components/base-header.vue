@@ -12,13 +12,9 @@ export default defineComponent({
   },
 });
 </script>
- 
 <template>
 <three-buttons></three-buttons>
 <image-palestine></image-palestine>
  </template>
-
 <style scoped>
-
-
 </style>
